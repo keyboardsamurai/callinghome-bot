@@ -27,7 +27,7 @@ import java.util.concurrent.ExecutorService;
 import static org.mockito.Mockito.*;
 
 /**
- * @author Antonio Agudo mailto:info@antonioagudo.com on 01.02.23
+ * @author Antonio Agudo on 01.02.23
  */
 class UpdatePostedHandlerTest {
     @Mock
